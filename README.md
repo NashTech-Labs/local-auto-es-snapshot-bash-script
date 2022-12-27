@@ -1,6 +1,6 @@
 # README
 
-This script takes input some envs and based on the env values forms payload json files. Then uses these payload json files to create a snapshot. This script can be executed
+This script takes input some envs and based on the env values forms payload json files. Then uses these payload json files to create a snapshot. This script can be executed daily or in a automated manner to create snapshots.
 
 ## Env Table
 
